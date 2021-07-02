@@ -1,5 +1,6 @@
 ---
 items:
+ - signoz/signoz
  - puppetlabs/puppet
  - chef/chef
  - ansible/ansible
